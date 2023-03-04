@@ -1,0 +1,29 @@
+.land iframe {
+    width: 1138px;
+    height: 590px;
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+.up {
+    background-color: black;
+    color: black;
+    height: 34px;
+    width: 1138px;
+    position: absolute;
+}
+.down {
+    background-color: black;
+    color: black;
+    height: 34px;
+    width: 1138px;
+    position: absolute;
+    margin-top: 555px;
+}
+.ok {
+    position: relative;
+}
